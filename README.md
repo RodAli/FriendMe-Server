@@ -38,4 +38,4 @@ View a users profile identified by giving their username.
 ~~~
 quit
 ~~~
-Quit...
+Disconnect from server by closing socket connection.
